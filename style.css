@@ -1,0 +1,34 @@
+#maintag{
+  margin-top: auto;
+  margin-bottom: auto!important;
+  opacity: 60%;
+  text-decoration: brown;
+}
+/* #maintag2{
+  display: none;
+  color: aliceblue;
+} */
+.grid {
+  width: 400px;
+  height: 600px;
+  background-image: url('./background.jpg');
+  position: relative;
+  font-size: 40px;
+  color: aliceblue;
+  text-align: center;
+  padding: 40px;
+}
+
+.doodler {
+  width: 87px;
+  height: 85px;
+  background-image: url('./doodler-guy.png');
+  position: absolute;
+}
+
+.platform {
+  width: 85px;
+  height: 15px;
+  background-image: url('platform.png');
+  position: absolute;
+}
